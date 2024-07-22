@@ -1,1 +1,1 @@
-# Jump-Froggy
+# MinJumps
